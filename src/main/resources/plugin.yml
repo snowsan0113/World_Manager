@@ -2,3 +2,8 @@ name: World_Manager
 version: '1.0-SNAPSHOT'
 main: snowsan0113.world_manager.Main
 api-version: '1.20'
+
+commands:
+  world_list_gui:
+    description: ワールドの情報のGUIを表示させるコマンド
+    permission: snowsan0113.world_manager.world_gui
