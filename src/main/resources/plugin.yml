@@ -1,0 +1,4 @@
+name: World_Manager
+version: '1.0-SNAPSHOT'
+main: snowsan0113.world_manager.Main
+api-version: '1.20'
