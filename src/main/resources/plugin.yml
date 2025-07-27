@@ -7,3 +7,6 @@ commands:
   world_list_gui:
     description: ワールドの情報のGUIを表示させるコマンド
     permission: snowsan0113.world_manager.world_gui
+  world_create_gui:
+    description: ワールドを作成するGUI
+    permission: snowsan0113.world_manager.world_create_gui
