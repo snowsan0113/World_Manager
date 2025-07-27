@@ -12,7 +12,7 @@ import org.bukkit.inventory.InventoryView;
 import org.bukkit.inventory.ItemStack;
 import snowsan0113.world_manager.manager.gui.WorldListGUI;
 
-public class InventoryClickListener implements Listener {
+public class WorldListGUIListener implements Listener {
 
     @EventHandler
     public void onClick(InventoryClickEvent event) {
